@@ -9,6 +9,8 @@ El curso tiene como objetivo la presentación de un conjunto de herramientas com
 
 El curso está orientado alumnos, investigadores, no docentes, y también se encuentra abierto al público externo a la Institución.
 
+Se dará Certificado de Participación. No se tomará evaluación y por ello no se dará Certificado de Aprobación.
+
 El Curso se llevará a cabo bajo la modalidad virtual.
 
 Inscripciones abiertas hasta el 1 de agosto de 2023 a través del siguiente link de Inscripción:
