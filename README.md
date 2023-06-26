@@ -14,8 +14,6 @@ El Curso se llevará a cabo bajo la modalidad virtual.
 Inscripciones abiertas hasta el 1 de agosto de 2023 a través del siguiente link de Inscripción:
 https://forms.gle/bagM9rZnbXnVGH2Z8
 
-o Código QR:![qr-code](https://github.com/EdgardoBonzi/Introduccion-a-Python/assets/14077755/665aeb05-ced0-4719-a660-b94d0690ab0a)
-
 Contenidos:
 
     Presentación - Características generales de Python
