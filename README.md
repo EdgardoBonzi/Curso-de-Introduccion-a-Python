@@ -29,7 +29,7 @@ https://forms.gle/bagM9rZnbXnVGH2Z8
     La librería de gráficos Matplotlib
     
 ## Costos
-Sin Costo para **alumnos de grado de la FaMAF**. 
+Sin Costo para **alumnos de grado de la FaMAF**.   
 **Otros**. el costo es de pesos cinco mil pesos ($5000.00).
     
 ## Bibliografía 
