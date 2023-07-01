@@ -28,7 +28,8 @@ https://forms.gle/bagM9rZnbXnVGH2Z8
     La librería algebraica Numpy
     La librería de gráficos Matplotlib
     
-    COSTOS: Sin Costo para alumnos de grado de la FaMAF. Otros, el costo será de pesos cinco mil pesos ($5000.00).
+## Costos
+Sin Costo para *alumnos de grado de la FaMAF*. *Otros*, el costo será de pesos cinco mil pesos ($5000.00).
     
 ## Bibliografía 
 Se utilizarán como referencia tutoriales y notebooks hechos por los docentes, tutoriales de referencia propios de las librerías y los libros (de acceso gratuito):
