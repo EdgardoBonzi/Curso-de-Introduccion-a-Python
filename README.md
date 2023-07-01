@@ -37,7 +37,7 @@ Bibliografía: se utilizarán como referencia tutorial y notebooks hechos por lo
 
 3. Automated Solution of Differential Equations by the Finite Element Method. Wells (Eds.) June 14, 2011
 
-Duración, carga horaria y fechas estipuladas de las clases: ocho clases de 60 minutos cada una.
+Duración, carga horaria y fechas estipuladas de las clases: ocho clases de 90 minutos cada una.
 
 Modalidad: intensiva, presencial vía internet, con énfasis en aplicaciones.
 
