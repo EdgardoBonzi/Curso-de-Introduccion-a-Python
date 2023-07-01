@@ -1,10 +1,10 @@
-# Introduccion a la Programación con Python
+# Introduccion a la Programación con Python - 2023
 Curso de Extensión de la FaMAF - Universidad Nacional de Córdoba de Introducción a la Programación en Python
 Facultad de Matemática, Astronomía, Física y Computación - FaMAF - UNC
 
 # Curso de Introducción a la programación en Python
 
-Del 10 de agosto al 28 de septiembre del 2023 se llevará a cabo el Curso de Extensión Introducción a la programación en Python aprobado por RCD xxx/2022. 
+Del 10 de agosto al 28 de septiembre del 2023 se llevará a cabo el Curso de Extensión Introducción a la programación en Python aprobado por RCD xxx/2023. 
 
 El curso tiene como objetivo la presentación de un conjunto de herramientas computacionales basadas en Python para su utilización como apoyo a la investigación y el desarrollo científico. 
 
@@ -44,3 +44,4 @@ Modalidad: intensiva, presencial vía internet, con énfasis en aplicaciones.
 Equipamiento necesario para el dictado: las clases serán de modo presencial vía internet, utilizando meet y Modle. El software de Python a utilizar es abierto y de uso libre.
 
 Lugar en que se dictará el curso: online vía meet y Moodle.
+Los dias jueves a las 18:30 horas, las clases serán grabadas y subidas al Aula Virtual - Moodle y estarán disponibleds para que los alumnos accedan a ella en los horarios adecuados a cada uno.
