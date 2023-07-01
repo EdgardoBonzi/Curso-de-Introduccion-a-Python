@@ -4,7 +4,7 @@ Facultad de Matemática, Astronomía, Física y Computación - FaMAF - UNC
 
 # Curso de Introducción a la programación en Python
 
-## Fecha del Dictado
+## Fecha del Curso
 Del 10 de agosto al 28 de septiembre del 2023 se llevará a cabo el Curso de Extensión Introducción a la programación en Python aprobado por RCD xxx/2023. 
 
 El curso tiene como objetivo la presentación de un conjunto de herramientas computacionales basadas en Python para su utilización como apoyo a la investigación y el desarrollo científico. 
