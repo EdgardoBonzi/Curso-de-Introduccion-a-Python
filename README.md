@@ -44,4 +44,4 @@ Modalidad: intensiva, presencial vía internet, con énfasis en aplicaciones.
 Equipamiento necesario para el dictado: las clases serán de modo presencial vía internet, utilizando meet y Modle. El software de Python a utilizar es abierto y de uso libre.
 
 Lugar en que se dictará el curso: online vía meet y Moodle.
-Los dias jueves a las 18:30 horas, las clases serán grabadas y subidas al Aula Virtual - Moodle y estarán disponibleds para que los alumnos accedan a ella en los horarios adecuados a cada uno.
+Los dias jueves a las 18:30 horas, las clases serán grabadas y subidas al Aula Virtual - Moodle y estarán disponibleds para que los alumnos accedan a las mismas, en los horarios adecuados a cada uno.
