@@ -1,4 +1,5 @@
 # Introduccion a la Programación con Python - 2023
+## Inscripciones cerradas
 Curso de Extensión de la FaMAF - Universidad Nacional de Córdoba de Introducción a la Programación en Python
 Facultad de Matemática, Astronomía, Física y Computación - FaMAF - UNC
 
