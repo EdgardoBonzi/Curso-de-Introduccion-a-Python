@@ -16,7 +16,7 @@ Se dará Certificado Electrónico de Participación. No se tomará evaluación y
 
 El Curso se llevará a cabo bajo la modalidad virtual.
 
-## Inscripciones
+## Inscripciones [cerradas]
 Abiertas hasta el 1 de agosto de 2023 a través del siguiente link de Inscripción:
 https://forms.gle/bagM9rZnbXnVGH2Z8
 
